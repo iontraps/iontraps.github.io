@@ -1,2 +1,2 @@
 # iontraps.github.io
-Redirect to https://github.com/iontraps/awesome-iontraps
+Redirect to [awesome-iontraps](https://github.com/iontraps/awesome-iontraps) and share the slack invitation link
